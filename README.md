@@ -1,6 +1,6 @@
 # AppRating-Android
 
-A simple Android Framework for an app pre-rating before you transfer the user to the PlayStore.
+A simple Android framework for an app pre-rating before you transfer the user to the PlayStore.
 
 (UNFINISHED)
 
