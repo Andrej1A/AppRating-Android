@@ -9,7 +9,7 @@ A simple Android Framework for an app pre-rating before you transfer the user to
 
 ## Usage
 
-### Adding this Framework to your Android project
+### Adding this framework to your Android project
 
 1. 
 
